@@ -1,1 +1,1 @@
-This is a riddle game with more intersting and knowledgeable questions 
+This is a riddle game with intersting and knowledgeable questions 
